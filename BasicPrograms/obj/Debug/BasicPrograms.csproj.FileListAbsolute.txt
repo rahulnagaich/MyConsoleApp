@@ -1,0 +1,7 @@
+C:\Users\Q1Code-3\Documents\Visual Studio 2017\Projects\ConsoleApp1\BasicPrograms\bin\Debug\BasicPrograms.exe.config
+C:\Users\Q1Code-3\Documents\Visual Studio 2017\Projects\ConsoleApp1\BasicPrograms\bin\Debug\BasicPrograms.exe
+C:\Users\Q1Code-3\Documents\Visual Studio 2017\Projects\ConsoleApp1\BasicPrograms\bin\Debug\BasicPrograms.pdb
+C:\Users\Q1Code-3\Documents\Visual Studio 2017\Projects\ConsoleApp1\BasicPrograms\obj\Debug\BasicPrograms.csprojAssemblyReference.cache
+C:\Users\Q1Code-3\Documents\Visual Studio 2017\Projects\ConsoleApp1\BasicPrograms\obj\Debug\BasicPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Q1Code-3\Documents\Visual Studio 2017\Projects\ConsoleApp1\BasicPrograms\obj\Debug\BasicPrograms.exe
+C:\Users\Q1Code-3\Documents\Visual Studio 2017\Projects\ConsoleApp1\BasicPrograms\obj\Debug\BasicPrograms.pdb
